@@ -353,7 +353,7 @@ contract BEP20Mintable is Context, iBEP20, Ownable {
     _name = 'Wrapped HumanCharityCoin';
     _symbol = 'WHCC';
     _decimals = 8;
-     _totalSupply = 1500000000000000; // 15 million 
+     _totalSupply = 1500000000000000; // 15,000,000.00000000 million 
     _balances[msg.sender] = _totalSupply;
 
     emit Transfer(address(0), msg.sender, _totalSupply);
