@@ -12,7 +12,6 @@
 
 Network | Description 
 -------- | -----------
-
 Network Name:|Binance Smart Chain Mainnet
 New RPC URL:|https://bsc-dataseed.binance.org/
 Chain ID::|56
